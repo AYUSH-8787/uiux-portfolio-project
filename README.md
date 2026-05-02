@@ -48,13 +48,13 @@ This project was built using industry-standard UI/UX practices:
 * *Auto-Layout:* Every frame uses responsive auto-layout, making the design scalable and convinient for the developers.
 
 ###  Components & Prototype Logic
-A look at the component library and the interaction flow behind the design :
+A look at the interaction flow behind the design :
 
 ![image alt](https://github.com/AYUSH-8787/uiux-portfolio-project/blob/02a8f77a3df6255d93da2b01f29f9a574dd1faca/design%20system/Screenshot%202026-05-02%20053611.png)
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 * *Design:* Figma
 * *Documentation:* GitHub Markdown
 * *Assets:* [
