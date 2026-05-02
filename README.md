@@ -1,6 +1,8 @@
 # Art Portfolio - UI/UX Project
 
 A modern, component-based art portfolio UI/UX case study , created in Figma , showcasing the use of component properties, auto-layout, and complex prototyping interactions to create a seamless user experience.
+
+## [here's a link to view the interactive prototype on figma .](https://www.figma.com/proto/vrgYvTtFMeYArrtjg0eWF8/my-portfolio?page-id=0%3A1&node-id=1-2&p=f&viewport=358%2C-782%2C0.99&t=PlPoCNoltPmULcIq-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2)
 ## Final Design Preview
 Here are the main screens of the application interface :
 
@@ -56,7 +58,7 @@ A look at the component library and the interaction flow behind the design :
 * *Design:* Figma
 * *Documentation:* GitHub Markdown
 * *Assets:* [
-  ** iconify icons library
-  ** icon scout
-  **doodle arrows , etc. ]
+ iconify icons library ,
+  icon scout ,
+  doodle arrows , etc. ]
   
