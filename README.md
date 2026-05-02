@@ -2,9 +2,10 @@
 
 A modern, component-based art portfolio UI/UX case study , created in Figma , showcasing the use of component properties, auto-layout, and complex prototyping interactions to create a seamless user experience.
 ## Final Design Preview
-Here are the main screens of the portfolio:
-| Home Page | Gallery View | Artist Profile |
-| ![image alt](./interface/home page.png) | ![Gallery](./Screenshots/gallery.png) | ![Profile](./Screenshots/profile.png) |
+Here are the main screens of the application interface :
+
+![image alt]()
+
 
 .
 
