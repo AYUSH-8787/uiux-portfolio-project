@@ -45,12 +45,10 @@ This project was built using industry-standard UI/UX practices:
 
 * *Auto-Layout:* Every frame uses responsive auto-layout, making the design scalable and convinient for the developers.
 
-*  ![image alt]()
-*  ![image alt]()
+###  Components & Prototype Logic
+A look at the component library and the interaction flow behind the design :
 
-### Under the Hood: Components & Prototype Logic
-![Design System](./Design-System/components.png)
-A look at the component library and the interaction flow (the "blue spaghetti") behind the design.
+![image alt]()
 
 ---
 
