@@ -45,11 +45,11 @@ This project was built using industry-standard UI/UX practices:
 
 *  ![image alt](https://github.com/AYUSH-8787/uiux-portfolio-project/blob/d32972e7b6594d0f317ada530de7f3ad63b6c1fb/design%20system/Screenshot%202026-05-02%20065347.png)
 
-* *Auto-Layout:* Every frame uses responsive auto-layout, making the design scalable and convinient for the developers.
+* *Auto-Layout:* Every frame uses responsive auto-layout, making the design scalable and convinient for the developers . ALl the frames have been namewd according to their role , making it easier to navigate through the design and makwe changes .
 
-* ![imqage alt]()
+* ![imqage alt](https://github.com/AYUSH-8787/uiux-portfolio-project/blob/c8c1079228220d515733da2d46a0c46282c8e661/design%20system/Screenshot%202026-05-02%20054700.png)
 
-* ![imqage alt]()
+* ![imqage alt](https://github.com/AYUSH-8787/uiux-portfolio-project/blob/c8c1079228220d515733da2d46a0c46282c8e661/design%20system/Screenshot%202026-05-02%20054952.png)
 
 ###  Components & Prototype Logic
 A look at the interaction flow behind the design :
