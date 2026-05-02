@@ -47,6 +47,10 @@ This project was built using industry-standard UI/UX practices:
 
 * *Auto-Layout:* Every frame uses responsive auto-layout, making the design scalable and convinient for the developers.
 
+* ![imqage alt]()
+
+* ![imqage alt]()
+
 ###  Components & Prototype Logic
 A look at the interaction flow behind the design :
 
